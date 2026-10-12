@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+*.log
+
+# Credentials must never be committed
+*_api_key.txt
+youtube_api_key.txt
+.env
