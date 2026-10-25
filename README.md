@@ -1,4 +1,4 @@
-# digital-humanities-research — zero-background skills for digital-humanities field research
+# lsh-digital-humanities-research — zero-background skills for digital-humanities field research
 
 Step-by-step skills that take someone with **no technical background** from a blank computer to a
 finished, reproducible digital-humanities study.
