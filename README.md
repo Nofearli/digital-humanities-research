@@ -12,7 +12,7 @@ nobody is scared off by a long dependency list.
 
 ## What's inside
 
-### `skills/digital-humanities-research/` — collection only (7 steps)
+### `skills/lsh-digital-humanities-research/` — collection only (7 steps)
 
 Environment setup → API credentials → topic brief → volume → collect → organize → plain-text report.
 
@@ -25,7 +25,7 @@ Environment setup → API credentials → topic brief → volume → collect →
 | `references/troubleshooting-checklist.md` | Error tables, pre-flight / in-flight / post-flight checklists |
 | `assets/report_template.txt` | Plain-text report template |
 
-### `skills/dhr-full-research/` — collection **and** analysis (12 steps)
+### `skills/lsh-dhr-full-research/` — collection **and** analysis (12 steps)
 
 Everything above, plus the five-stage analysis pipeline and a full code walkthrough.
 

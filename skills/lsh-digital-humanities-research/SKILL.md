@@ -1,10 +1,10 @@
 ---
-name: digital-humanities-research
+name: lsh-digital-humanities-research
 description: 面向完全零基础用户的数字人文调研全流程。当用户想从零完成一次"准备 Python/conda 环境 → 安装依赖库 → 申请并配置 API 密钥 → 填写调研主题 → 按指定数量抓取网络评论 → 保存整理结果 → 输出纯文字报告"时使用本技能，典型场景是采集 YouTube 视频评论做主题/情感/传播分析。覆盖环境与依赖安装（用什么环境、装哪些库、装到哪里）、密钥申请与存放文件夹、调研主题填写模板、采集数量配置、纯文字输出规范、常见报错排查与操作检查清单。触发词：数字人文、评论采集、API key、YouTube 采集、调研报告、环境配置、装库、conda 环境、评论爬取。
 agent_created: true
 ---
 
-# digital-humanities-research：零基础数字人文调研全流程
+# lsh-digital-humanities-research：零基础数字人文调研全流程
 
 ## Overview
 
